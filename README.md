@@ -44,19 +44,19 @@ java -jar ysoserialinject-0.0.1-SNAPSHOT-all.jar CommonsBeanutils1Behinder
 
 以一个测试用的反序列化环境为例
 
-![1](C:\Users\Administrator\Desktop\ysoserialinject-master\img\1.png)
+![1](.\img\1.png)
 
 生成冰蝎3内存马注入payload
 
-![2](C:\Users\Administrator\Desktop\ysoserialinject-master\img\2.png)
+![2](.\img\2.png)
 
 注入
 
-![3](C:\Users\Administrator\Desktop\ysoserialinject-master\img\3.png)
+![3](.\img\3.png)
 
 测试成功
 
-![4](C:\Users\Administrator\Desktop\ysoserialinject-master\img\4.png)
+![4](.\img\4.png)
 
 ## 未来升级
 
