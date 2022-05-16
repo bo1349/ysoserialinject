@@ -52,7 +52,7 @@ java -jar ysoserialinject-0.0.1-SNAPSHOT-all.jar CommonsBeanutils1Behinder
 
 注入
 
-![3](.\img\3.png)
+![3](./img/3.png)
 
 测试成功
 
